@@ -22,7 +22,7 @@ Description.
 ## Lyrics
 
 ```
-
+gritty lies on my face i'm alive in the bass
 
 ```
 
